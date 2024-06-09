@@ -1,0 +1,20 @@
+{
+  "hi": "Hi",
+  "signIn": "Sign in",
+  "userName": "User name",
+  "password": "Password",
+  "login": "LOGIN",
+  "forgetPassword": "Forget password?",
+  "createAccount": "Create a new account",
+  "done": "Done",
+  "todo": "Todo",
+  "completed": "Completed",
+  "welcome": "Welcome",
+  "createNewTask": "Create a new task",
+  "whatDoYouHave": "What do you have up next to do?",
+  "addTask": "Add task",
+  "editTask": "Edit task",
+  "deleteTask": "Delete task",
+  "required": "Required",
+  "requires8Characters": "This field is requires at least 8 characters"
+}
